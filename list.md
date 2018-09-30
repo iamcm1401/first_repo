@@ -3,3 +3,4 @@
 - Battlefield
 - PUBG
 - Black Squad
+- Dirty Bomb
