@@ -2,3 +2,4 @@
 - Call of Duty
 - Battlefield
 - PUBG
+- Black Squad
