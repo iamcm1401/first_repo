@@ -4,3 +4,7 @@
 - PUBG
 - Black Squad
 - Dirty Bomb
+
+## Outdoor games
+- Football
+- Cricket
